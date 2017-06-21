@@ -1,0 +1,11 @@
+{
+    "name": "bglobal/options",
+    "description": "Laravel dynamic settings",
+    "authors": [
+        {
+            "name": "Anwar",
+            "email": "anwar@bglobalsourcing.com"
+        }
+    ],
+    "require": {}
+}
