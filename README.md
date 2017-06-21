@@ -60,7 +60,7 @@ Settings are stored in the database in the "settings" table. Its columns are:
 - created_at
 - updated_at
 
-There is no interface available to add new settings. They are added by the developer directly in the database, since the Backpack CRUD field configuration is a bit complicated. See the field types and their configuration code on https://laravel-backpack.readme.io/docs
+There is no interface available to add new options. They are added by the developer directly in the database.
 
 
 ## Change log
@@ -76,17 +76,6 @@ $ composer test
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Security
-
-If you discover any security related issues, please email hello@tabacitu.ro instead of using the issue tracker.
-
-Please **[subscribe to the Backpack Newsletter](http://eepurl.com/bUEGjf)** so you can find out about any security updates, breaking changes or major features. We send an email every 1-2 months.
-
-## Credits
-
-- [Cristian Tabacitu][link-author]
-- [All Contributors][link-contributors]
 
 ## License
 
