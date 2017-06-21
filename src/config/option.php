@@ -35,7 +35,7 @@ return [
     // Change this class if you wish to extend the Option model
     'option_model_class'=> 'Bglobal\Options\Models\Option',
 
-    'base_layout' => 'admin.options.base',
+    'base_layout' => 'laravel-authentication-acl::admin.layouts.base-2cols',
 
     /*route settings*/
     'route_prefix'=>'admin/options',
