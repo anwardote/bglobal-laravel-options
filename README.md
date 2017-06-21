@@ -1,12 +1,12 @@
 # Bglobal\Options
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
-[![Style CI](https://styleci.io/repos/53683729/shield)](https://styleci.io/repos/53683729)
-[![Total Downloads][ico-downloads]][link-downloads]
+[[Latest Version on Packagist][ico-version]][link-packagist]
+[[Software License][ico-license]](LICENSE.md)
+[[Build Status][ico-travis]][link-travis]
+[[Coverage Status][ico-scrutinizer]][link-scrutinizer]
+[[Quality Score][ico-code-quality]][link-code-quality]
+[[Style CI](https://styleci.io/repos/53683729/shield)](https://styleci.io/repos/53683729)
+[[Total Downloads][ico-downloads]][link-downloads]
 
 An interface for the administrator to easily change application options. Uses Laravel Bglobal. On Laravel 5.2, 5.3, and 5.4
 
